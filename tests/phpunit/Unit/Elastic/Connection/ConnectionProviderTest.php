@@ -2,7 +2,7 @@
 
 namespace SMW\Tests\Unit\Elastic\Connection;
 
-use Elasticsearch\ClientBuilder;
+use Elastic\Elasticsearch\ClientBuilder;
 use PHPUnit\Framework\TestCase;
 use Psr\Log\LoggerInterface;
 use SMW\Elastic\Config;
